@@ -1,7 +1,7 @@
 # Todo app done with react
 
-![Image description](https://elenacube.s3-eu-west-1.amazonaws.com/todoapp/todoapp.mov
-)
+
+[![Watch the video](https://elenacube.s3-eu-west-1.amazonaws.com/todoapp/todoapp.mov)
 
 
 # Getting Started with Create React App
