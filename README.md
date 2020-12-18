@@ -1,7 +1,7 @@
 # Todo app done with react
 
 
-¡[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://gifs.com/gif/K1w05n)
+¡[![SC2 Video](https://elenacube.s3-eu-west-1.amazonaws.com/todoapp/Captura+de+pantalla+2020-12-18+a+las+11.27.38.png)](https://youtu.be/drL-ue-EXG0)
 
 
 # Getting Started with Create React App
