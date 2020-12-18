@@ -1,7 +1,7 @@
 # Todo app done with react
 
 
-[![Watch the video](https://gifs.com/gif/K1w05n)
+¡[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://gifs.com/gif/K1w05n)
 
 
 # Getting Started with Create React App
